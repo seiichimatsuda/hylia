@@ -3,7 +3,7 @@ layout: home
 title: Eleventyの簡単なスターターキット
 metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
   own blog or personal website.
-postsHeading: Latest posts
+postsHeading: 最新記事
 archiveButtonText: See all posts
 socialImage: ""
 ---
