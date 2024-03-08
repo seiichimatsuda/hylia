@@ -11,9 +11,9 @@
       "external": true
     },
     {
-      "text": "お問い合わせページサンプル",
-      "url": "/contact",
-      "external": false
+      "url": "https://msl-contact.square.site/",
+      "text": "お問合せ",
+      "external": true
     }
   ]
 }
