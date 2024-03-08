@@ -22,10 +22,10 @@ A list of stuff:
 * Aenean lacinia bibendum nulla sed consectetur
 * Sed posuere consectetur est at lobortis
 
-How about an ordered list of stuff:
+順番に並べたリストはどうだろう：
 
 1. Sed posuere consectetur est at lobortis
 2. Aenean lacinia bibendum nulla sed consectetur
 3. Sed posuere consectetur est at lobortis
 
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+これで、Hyliaを使って見栄えの良いブログを作るのがいかに簡単かがお分かりいただけたと思う。
