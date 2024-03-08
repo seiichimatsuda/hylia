@@ -1,17 +1,16 @@
 ---
-title: A scheduled post
-date: '2022-06-18'
+title: 予約投稿
+date: 2022-06-18
 tags:
   - demo-content
   - simple-post
   - blog
 ---
+この投稿は将来、具体的には2022年半ばに予定されている。願わくば、あなたもそのころにはまだブログを書いていてほしい。その日付が過ぎれば、この記事は自動的に公開され、見ることができるようになる。
 
-This post is scheduled for the future, specifically mid-2022. Hopefully you're still blogging by then too. Once that date ticks by, this post will automatically become published and visible.
+そうでなければ、以下はあなたが遊べるようにスタイリングされたコンテンツです。
 
-Otherwise, below is some styled content for you to play with.
-
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+通常のブログ記事がHyliaでどのように見えるかを示すためのシンプルな投稿です。コンテンツはすべてマークダウンとして "Body "フィールドに設定され、Eleventyが適切なHTML投稿に変換する。CMSを使いたくない場合は、マークダウン・ファイルを直接編集することもできる。
 
 How about a `<blockquote>`?
 
@@ -19,15 +18,14 @@ How about a `<blockquote>`?
 
 A list of stuff:
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+* Sed posuere consectetur est at lobortis
+* Aenean lacinia bibendum nulla sed consectetur
+* Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
 1. Sed posuere consectetur est at lobortis
 2. Aenean lacinia bibendum nulla sed consectetur
 3. Sed posuere consectetur est at lobortis
-
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
