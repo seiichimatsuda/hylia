@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "ホーム",
+      "url": "https://www.matsudasystems.com/",
+      "external": true
+    },
+    {
       "text": "ブログ",
       "url": "/",
       "external": false
@@ -8,11 +13,6 @@
     {
       "url": "https://msl-contact.square.site/",
       "text": "お問合せ",
-      "external": true
-    },
-    {
-      "text": "ホーム",
-      "url": "https://www.matsudasystems.com/",
       "external": true
     }
   ]
