@@ -3,7 +3,6 @@ layout: layouts/contact.njk
 title: お問合せ
 permalink: /contact/index.html
 ---
+基本的なフォームを使った問い合わせページを持つことができます。 The code with the form fields lives here. このサイトのお問い合わせフォームを削除するには、CMSのこのページを削除するか、または以下の方法で削除してください。
 
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
-
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+`src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
