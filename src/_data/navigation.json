@@ -2,6 +2,11 @@
   "items": [
     {
       "text": "ホーム",
+      "url": "https://www.matsudasystems.com/",
+      "external": true
+    },
+    {
+      "text": "ブログ",
       "url": "/",
       "external": false
     },
