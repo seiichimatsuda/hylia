@@ -6,20 +6,20 @@ tags:
   - blog
   - media
 ---
-A post to demonstrate how a blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+ブログ記事がHylia上でどのように見えるかを示すための投稿。コンテンツはすべてマークダウンとして "Body "フィールドに設定され、Eleventyが適切なHTML投稿に変換する。CMSを使いたくない場合は、マークダウンファイルを直接編集することもできる。
 
-If you want to make an image bleed-out, add a title attribute to it and the front-end will automatically wrap it in a `<figure>` tag for you.
+画像をブリードアウトさせたい場合は、その画像にtitle属性を追加すれば、フロントエンドが自動的に<figure>タグで囲んでくれます。
 
-![The top of a grey concrete building with a blue sky in the background](/images/demo-image-1.jpg "Brutalism at its finest. Photo by Artificial Photography on Unsplash.")
+![青空を背景にした灰色のコンクリート・ビルの屋上](/images/demo-image-1.jpg "最高のブルータリズム。Photo by Artificial Photography on Unsplash.")
 
-You can also add videos to posts from YouTube or Vimeo (or wherever, really) and the front-end will also make those bleed-out for you too.
+また、YouTubeやVimeo（または、本当にどこでも）から投稿にビデオを追加することもでき、フロントエンドは、あなたのためにそれらをブリードアウトすることもできます。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe
 
 Finally, how about a `<blockquote>`?
 
 > Quotes will take a slightly different style to normal body text and look fancy.
 
-![Person holds up a photograph of a riverside and buildings with the same river as a backdrop](/images/demo-image-2.jpg "Remember, if you want a figure and caption, add a 'title' attribute to image in the body field — Photo by Kharytonova Antonina on Unsplash.")
+![同じ川を背景にした川辺と建物の写真を掲げる人物](/images/demo-image-2.jpg "図とキャプションが必要な場合は、bodyフィールドの画像に'title'属性を追加することを忘れないでください - Photo by Kharytonova Antonina on Unsplash.")
 
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+これで、Hyliaを使って見栄えの良いブログを作るのがいかに簡単かがお分かりいただけたと思う。
