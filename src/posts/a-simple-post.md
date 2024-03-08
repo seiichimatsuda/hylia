@@ -6,7 +6,7 @@ tags:
   - simple-post
   - blog
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+Hyliaで通常のブログ投稿がどのように見えるかを示すためのシンプルな投稿。コンテンツはすべてマークダウンとして "Body "フィールドに設定され、Eleventyが適切なHTML投稿に変換する。CMSを使いたくない場合は、マークダウン・ファイルを直接編集することもできる。
 
 How about a `<blockquote>`?
 
@@ -14,15 +14,14 @@ How about a `<blockquote>`?
 
 A list of stuff:
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+* Sed posuere consectetur est at lobortis
+* Aenean lacinia bibendum nulla sed consectetur
+* Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
 1. Sed posuere consectetur est at lobortis
 2. Aenean lacinia bibendum nulla sed consectetur
 3. Sed posuere consectetur est at lobortis
-
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
