@@ -9,6 +9,11 @@
       "url": "https://msl-contact.square.site/",
       "text": "お問合せ",
       "external": true
+    },
+    {
+      "text": "ホーム",
+      "url": "https://www.matsudasystems.com/",
+      "external": true
     }
   ]
 }
