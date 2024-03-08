@@ -1,6 +1,6 @@
 ---
-title: A post with figures and video
-date: '2019-06-18'
+title: 画像とビデオの投稿
+date: 2019-06-18
 tags:
   - demo-content
   - blog
