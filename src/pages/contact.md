@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: 問合せ
+title: お問合せ
 permalink: /contact/index.html
 ---
 
