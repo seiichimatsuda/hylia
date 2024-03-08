@@ -7,7 +7,6 @@ postsHeading: 最新記事
 archiveButtonText: See all posts
 socialImage: ""
 ---
+HyliaはNetlify CMSがあらかじめ設定された軽量のEleventyスターターキットで、ワンクリックでプログレッシブでアクセスしやすいブログを数分でインストールできます。また、自分で拡張するための、よく整理された出発点を与えてくれます。アンディ・ベルとその友人たちによるものです。
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+今すぐHyliaをNetlifyにデプロイして始めましょう。
