@@ -10,7 +10,7 @@ tags:
 
 画像をブリードアウトさせたい場合は、その画像にtitle属性を追加すれば、フロントエンドが自動的に<figure>タグで囲んでくれます。
 
-![青空を背景にした灰色のコンクリート・ビルの屋上](/images/demo-image-1.jpg "最高のブルータリズム。Photo by Artificial Photography on Unsplash.")
+![青空を背景にした灰色のコンクリート・ビルの屋上](/images/p1150608.jpg "最高のブルータリズム。Photo by Artificial Photography on Unsplash.")
 
 また、YouTubeやVimeo（または、本当にどこでも）から投稿にビデオを追加することもでき、フロントエンドは、あなたのためにそれらをブリードアウトすることもできます。
 
