@@ -2,6 +2,8 @@
 layout: layouts/post.njk
 title: PICマイコンの動向
 date: 2024-03-09T04:40:27.473Z
+tags:
+  - マイコン
 ---
 **PICマイコンの最新動向**
 
