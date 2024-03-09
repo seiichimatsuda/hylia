@@ -2,9 +2,9 @@
 title: 投稿サンプル
 date: 2019-06-18
 tags:
-  - demo-content
-  - code
-  - blog
+  - ブログ
+  - 簡単な投稿
+  - コード
 ---
 コード投稿をデモする最良の方法は、実際の投稿を表示することです。そこで、[andy-bell.design](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/)からの、フルブリードCSSユーティリティに関する投稿をご覧ください。
 
