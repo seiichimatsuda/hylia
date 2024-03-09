@@ -19,12 +19,9 @@ tags:
 
 また、YouTubeやVimeo（または、本当にどこでも）から投稿にビデオを追加することもでき、フロントエンドは、あなたのためにそれらをブリードアウトすることもできます。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=aH6nF5gAu5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe
 
-Finally, how about a `<blockquote>`?
 
-> Quotes will take a slightly different style to normal body text and look fancy.
 
-![同じ川を背景にした川辺と建物の写真を掲げる人物](/images/demo-image-2.jpg "図とキャプションが必要な場合は、bodyフィールドの画像に'title'属性を追加することを忘れないでください - Photo by Kharytonova Antonina on Unsplash.")
+> この動画では、あらゆるバッテリ駆動システムに役立つPIC® MCUの低消費電力モードについて説明します。
 
-これで、Hyliaを使って見栄えの良いブログを作るのがいかに簡単かがお分かりいただけたと思う。
