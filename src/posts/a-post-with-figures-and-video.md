@@ -1,5 +1,6 @@
 ---
 title: 画像とビデオの投稿
+socialImage: /images/p1150608.jpg
 date: 2019-06-18
 tags:
   - ブログ
