@@ -1,12 +1,11 @@
 ---
 layout: home
-title: Eleventyの簡単なスターターキット
-metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
-  own blog or personal website.
+title: コンテンツのご紹介
+metaDesc: 松田システム技研　ブログ
 postsHeading: 最新記事
 archiveButtonText: See all posts
 socialImage: ""
 ---
-HyliaはNetlify CMSがあらかじめ設定された軽量のEleventyスターターキットで、ワンクリックでプログレッシブでアクセスしやすいブログを数分でインストールできます。また、自分で拡張するための、よく整理された出発点を与えてくれます。アンディ・ベルとその友人たちによるものです。
+新しい時代のテクノロジーに挑戦し続けるIT企業、松田システム技研をご紹介します。同社は革新的なソリューションを提供し、ビジネスのデジタルトランスフォーメーションを支援しています。ブログでは、最新のテクノロジートレンドから企業の成功事例まで幅広い情報を発信。プロのエンジニアからの洞察や業界の未来展望など、読者の知識拡充に貢献しています。
 
-今すぐHyliaをNetlifyにデプロイして始めましょう。
+松田システム技研のブログは、テクノロジー愛好者やビジネスリーダーにとっての必読コンテンツとなっており、今後の展開にますます期待が高まっています。
